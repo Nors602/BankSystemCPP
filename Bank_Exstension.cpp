@@ -737,17 +737,9 @@ void ShowMainMenue()
 int main()
 
 {
-    ofstream file("test.txt", ios::app);
-    if (file.is_open()) {
-        file << "Hello Norus!" << endl;
-        file.close();
-        cout << "Data written successfully\n";
-    }
-    else {
-        cout << "Failed to open file\n";
-    }
-  
+   
     ShowMainMenue();
     system("pause>0");
     return 0;
+
 }
