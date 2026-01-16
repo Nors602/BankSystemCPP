@@ -1,0 +1,33 @@
+# Ignore build files
+*.exe
+*.obj
+*.o
+*.out
+
+# Visual Studio
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+*.cache
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+
+# CMake (if used later)
+build/
+CMakeFiles/
+CMakeCache.txt
