@@ -1,10 +1,10 @@
 # BankSystemCPP
 
 ## Description
-This repository contains **three versions of a simple console-based Bank Management System in C++**, showing the evolution of the project.  
-It allows managing clients and users with CRUD operations, transactions, and user permissions, using **file-based data storage**.
+This repository contains **tow versions of a simple console-based Bank Management System in C++**, showing the evolution of the project.  
+It allows  clients and users with CRUD operations, transactions, using **file-based data storage**.
 
-## Projects / Versions
+## Projects / Versionn
 
 ### 1. Bank System - Version 1
 - Basic client management:
@@ -16,17 +16,11 @@ It allows managing clients and users with CRUD operations, transactions, and use
 - Added deposit and withdraw functionality
 - Basic transaction handling
 
-### 3. Bank System - Version 3
-- All features from Version 2
-- Added **user management**:
-  - Add, update, delete, find users
-  - Permission system to control access to features
-- More robust file handling and validations
 
 ## Technologies
 - C++
 - File Handling
 - Structs & Vectors
-- Bitwise operations for user permissions
 Autor : Norus Shehadah
+
 
