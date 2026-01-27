@@ -2,7 +2,7 @@
 
 ## Description
 This repository contains **tow versions of a simple console-based Bank Management System in C++**, showing the evolution of the project.  
-It allows  clients and users with CRUD operations, transactions, using **file-based data storage**.
+It allows  clients  with CRUD operations, transactions, using **file-based data storage**.
 
 ## Projects / Versionn
 
@@ -22,5 +22,6 @@ It allows  clients and users with CRUD operations, transactions, using **file-ba
 - File Handling
 - Structs & Vectors
 Autor : Norus Shehadah
+
 
 
